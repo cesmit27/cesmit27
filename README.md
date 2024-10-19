@@ -1,5 +1,5 @@
 Hi, I’m Colin.
-I’m interested in growing my Python skills, and this is where I keep the projects that I've worked on in my spare time.
+I’m interested in growing my Python skills, and this is where I keep the projects that I've worked on.
 
 Most of these projects are more on the side of being a hobby or being silly, but a couple of them are more professional and were used in academic or professional presentations.
 
